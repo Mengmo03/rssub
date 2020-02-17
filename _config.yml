@@ -22,7 +22,7 @@ title: ProgramCZ's RSSub
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   RSSub is a RSS subscriber driven by Jekyll and GitHub Pages.
-baseurl: "/rssub" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://programcz.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
 github_username:  ProgramCZ
