@@ -28,7 +28,7 @@ twitter_username:
 github_username:  mySaYo
 
 # Build settings
-theme: jekyll-theme-hacker
+theme: jekyll-theme-architect
 plugins:
   - jekyll-feed
 
