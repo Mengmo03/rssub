@@ -1,7 +1,7 @@
 name: Crawl Articles
 on: 
   schedule:
-    - cron: '0 0,12 * * *'
+    - cron: '0 0,4,10,12 * * *'
 jobs:
   crawl:
     runs-on: ubuntu-latest
