@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: 酒井美纪的家
+title: Mengmo's Personal Daily
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   RSSub is a RSS subscriber driven by Jekyll and GitHub Pages.
